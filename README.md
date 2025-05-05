@@ -3,7 +3,7 @@
 A fun, interactive web app to test your knowledge about salvation and the Bible! Designed for SWA Youth, this quiz challenges you with questions about Christian salvation, rewards quick thinking, and encourages learning with scriptural references and motivational messages.
 
 ## Features
-
+- **Live Website:** [Saved by Grace - Bible Quiz](https://example.com/bible-quiz)
 - **10-question Bible quiz** focused on salvation
 - **20 seconds per question** timer
 - **Points system** (+10 for each correct answer)
@@ -33,6 +33,9 @@ cd <repo-folder>
 start index.html  # or open index.html manually
 ```
 
+## Play Now
+You can play the game live at: [https://musembi25.github.io/Bible-Quiz/](https://musembi25.github.io/Bible-Quiz/)
+
 ## How to Play
 1. Enter your name and click **Begin Journey**.
 2. Read the instructions and start the quiz.
@@ -46,8 +49,7 @@ start index.html  # or open index.html manually
 ## Credits
 - **Developed by:** Shadrack Musembi
 - **Design & Concept:** SWA Youth
-- **Sound Effects:** [Mixkit](https://mixkit.co/)
 - **Background Image:** Unsplash
 
 ---
-© 2024 All Rights Reserved 
+© 2025 All Rights Reserved 
