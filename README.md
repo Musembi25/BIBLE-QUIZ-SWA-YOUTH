@@ -34,7 +34,7 @@ start index.html  # or open index.html manually
 ```
 
 ## Play Now
-You can play the game live at: [https://musembi25.github.io/Bible-Quiz/](https://musembi25.github.io/Bible-Quiz/)
+You can play the game live at: [https://musembi25.github.io/saved-by-grace-bible-quiz/](https://musembi25.github.io/saved-by-grace-bible-quiz/)
 
 ## How to Play
 1. Enter your name and click **Begin Journey**.
